@@ -6,4 +6,4 @@
 
 ### Implemented convolution and maxpool algorithm and used registers are shown in below
 
-image: ![](C:\Users\SANDARU\Pictures\lid)
+image: ![](https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_1.PNG) image.width 7
