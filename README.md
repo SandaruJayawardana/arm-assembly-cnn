@@ -6,4 +6,4 @@
 
 ### Implemented convolution and maxpool algorithm and used registers are shown in below
 
-image: 
+image: ![](C:\Users\SANDARU\Pictures\lid)
