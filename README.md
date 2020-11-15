@@ -4,8 +4,20 @@
 
 #### g++ -o -mfpu=neon-vfpv3 out sample.cpp
 
-### Implemented convolution and maxpool algorithm and used registers are shown in below
+### Implemented convolution and maxpool algorithm and used registers are shown in below (Siplified Version)
 
-#### Data Load Step 1
+#### 1. Data Load Step 1
 
 <img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_1.PNG" alt="alt text" width="310" height="300">
+
+#### 2. Data Load Step 2
+
+<img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_2.PNG" alt="alt text" width="310" height="300">
+
+#### 3. Data Load Step 3
+
+<img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_3.PNG" alt="alt text" width="310" height="300">
+
+#### Summary
+
+<img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Summarized Block Diagram.PNG" alt="alt text" width="310" height="400">
