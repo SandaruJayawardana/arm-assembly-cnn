@@ -7,7 +7,7 @@
 
 ### Implemented convolution and maxpool algorithm and used registers are shown in below (Siplified Version)
 
-+GNU g++ compiler pass the first 3 parameter values of a function in R1, R2, R3 registers. I used that to pass the necessary pointers to track the image, kernals and target for the each layer in the CNN.
++ GNU g++ compiler pass the first 3 parameter values of a function in R1, R2, R3 registers. I used that to pass the necessary pointers to track the image, kernals and target for the each layer in the CNN.
 
 #### 1. Data Load Step 1
 
